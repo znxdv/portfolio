@@ -13,12 +13,6 @@ function Projects() {
           h3="TerraPure"
           p="E-Commerce App menggunakan React.Js"
         />
-        <ProjectCard 
-          src={TerraPure} 
-          link="https://github.com/znxdv/TerraPure}"
-          h3="TerraPure"
-          p="E-Commerce App"
-        />
          <ProjectCard 
           src={TerraPure} 
           link="https://github.com/znxdv/TerraPure}"
